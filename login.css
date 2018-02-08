@@ -4,6 +4,7 @@ header {
     background-size: cover;
     background-position: center;
 }
+
 body {
     margin: 0;
     padding: 0;
@@ -64,7 +65,7 @@ loginbox {
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    position: inherit;
+    position: static;
     top: -50px;
     left: calc(50%, -50%);
 }
@@ -74,16 +75,20 @@ h1 {
     padding: 0 0 20px;
     text-align: center;
     font-size: 22px;
+    color: darkgoldenrod
 }
 
 .loginbox p {
-    margin: 0;
-    padding: 0;
+    color: goldenrod;
+    margin: 8px;
+    padding: 8px;
     font-weight: bold;
 }
 
 .loginbox input {
     width: 100%;
+    margin: 8px;
+    padding: 8px;
     margin-bottom: 23px;
 }
 

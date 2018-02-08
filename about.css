@@ -4,6 +4,11 @@ header {
     background-size: cover;
     background-position: center;
 }
+
+p {
+    font-size: 32px;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -11,6 +16,10 @@ body {
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
 }
 
 .l.main-nav {
@@ -45,4 +54,18 @@ body {
     height: auto;
     float: left;
     margin-left: ;
+}
+
+.image img {
+    width: 444;
+    height: auto;
+    float: right;
+    margin-right:-10px;
+}
+.lg img
+{
+   width: 53px;
+    height: auto;
+    float: left;
+    margin-left: ; 
 }
