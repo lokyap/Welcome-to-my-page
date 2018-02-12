@@ -70,4 +70,12 @@ h1 {
     float: left;
     margin-left: auto;
 }
+.social1 img
+{
+  width: 150px;
+    height: 150px;
+    border-radius: 33%;
+    float: left;
+    margin-left: 20px;
 }
+
