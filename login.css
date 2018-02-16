@@ -116,7 +116,7 @@ input[type="Password"] {
 .loginbox input[type="Submit"]: hover {
     cursor: pointer;
     background: #ffc107;
-    color: gold;
+    color: goldenrod;
 }
 
 .loginbox a:hover {
